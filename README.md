@@ -1,21 +1,13 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,100:1a3a6b&height=180&section=header&text=Hey!%20I%20am%20Sameer%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20@%20Northeastern&descAlignY=55&descSize=18" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,100:1a3a6b&height=200&section=header&text=Hey!%20I%20am%20Sameer%20👋&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Data%20Science%20%40%20Northeastern%20%7C%20📍%20Boston%2C%20MA&descAlignY=50&descSize=16" />
+
 
 </div>
 
----
 
-## 🙋 Hi, I'm Sameer Saxena
-
-<img align="right" width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-
-**Data Science grad student at Northeastern University, Boston**
-
-- 🎓 MS in Data Science @ **Northeastern University**
-- 📍 Based in **Boston, MA**
-- 🔗 [Portfolio](https://sampai28.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/sameer-saxena-3a80911a7/)
 
 ---
 
@@ -29,9 +21,9 @@
 
 ## 🏆 Hackathons
 
-- 🔨 **MakeHarvard 2021** (MLH) — Built **CRSAS**, a collaborative real-time system
-- 🌾 **Capital One Hackathon** — Built **Kissan Mitra**, a voice-enabled AI advisory system for Indian farmers
-- ✅ **NexHacks 2026** (CMU) — Built **Veritas**, a misinformation detection & fact-checking system
+- **MakeHarvard 2021** (MLH) — Built **CRSAS**, a collaborative real-time system
+- **Capital One Hackathon** — Built **Kissan Mitra**, a voice-enabled AI advisory system for Indian farmers
+- **NexHacks 2026** (CMU) — Built **Veritas**, a code-documentation fact-checking system
 
 ---
 
