@@ -14,7 +14,16 @@
 ## 🛠️ Skills
 
 <!-- SKILLS_START -->
-> ⚙️ *This section is auto-updated weekly by GitHub Actions based on my repositories.*
+**Languages**
+
+![HTML](https://img.shields.io/badge/HTML-1e3a5f?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1e3a5f?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d2137?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d2137?style=for-the-badge&logo=pytorch&logoColor=white)
 <!-- SKILLS_END -->
 
 ---
