@@ -38,8 +38,8 @@
 
 ## 🏆 Hackathons
 
-- **MakeHarvard 2021** (MLH) — Built **CRSAS**, a collaborative real-time system
-- **Capital One Hackathon** — Built **Kissan Mitra**, a voice-enabled AI advisory system for Indian farmers
+- **MakeHarvard 2021** (MLH) — Built **CRSAS**, a collaborative real-time system for customer review
+- **Capital One Hackathon 2025** — Built **Kissan Mitra**, a voice-enabled AI advisory system for Indian farmers
 - **NexHacks 2026** (CMU) — Built **Veritas**, a code-documentation fact-checking system
 
 ---
