@@ -8,39 +8,62 @@
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1e3a5f?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-1e3a5f?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-1e3a5f?style=for-the-badge&logo=gnubash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1e3a5f?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d2137?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d2137?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d2137?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d2137?style=for-the-badge&logo=huggingface&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-0d2137?style=for-the-badge&logo=darkreader&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d2137?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d2137?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0d2137?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0d2137?style=for-the-badge&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0d2137?style=for-the-badge&logo=mlflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-132847?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-132847?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-132847?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-132847?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-132847?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-132847?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-132847?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-132847?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 🔧 Data Engineer focused on building reliable pipelines, scalable data platforms, and automation systems
+- ⚙️ Experienced in designing ETL/ELT workflows, orchestration, and cloud-based data infrastructure
+- 🔐 Background in cybersecurity data pipelines — log ingestion, SIEM automation, and security data reliability
+- 📚 Currently exploring distributed systems and data engineering at Northeastern University, Boston
+- 🌱 Always looking for interesting data infrastructure and automation problems to solve
 
 ---
 
-## 🏆 Hackathons
+## 🛠️ Skills
 
-- **MakeHarvard 2021** (MLH) — Built **CRSAS**, a collaborative real-time system for customer review
-- **Capital One Hackathon 2025** — Built **Kissan Mitra**, a voice-enabled AI advisory system for Indian farmers
-- **NexHacks 2026** (CMU) — Built **Veritas**, a code-documentation fact-checking system
+**Languages**
+![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1e3a5f?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1e3a5f?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1e3a5f?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-1e3a5f?style=for-the-badge&logo=r&logoColor=white)
+
+**Data Pipelines & Orchestration**
+![Apache Airflow](https://img.shields.io/badge/Airflow-132847?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-132847?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-132847?style=for-the-badge&logo=dbt&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-132847?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-132847?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Databases & Warehousing**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-132847?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-132847?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-132847?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-132847?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-0d2137?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0d2137?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d2137?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0d2137?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+**Monitoring, Security & Automation**
+![Splunk](https://img.shields.io/badge/Splunk-0d2137?style=for-the-badge&logo=splunk&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0d2137?style=for-the-badge&logo=servicenow&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0d2137?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+
+**Analytics & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-1e3a5f?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1e3a5f?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-1e3a5f?style=for-the-badge&logo=powerbi&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-1e3a5f?style=for-the-badge&logo=looker&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+
+- **Enterprise License Renewal Automation** — Built an end-to-end automated data pipeline managing 200+ applications at Shell, cutting manual processing by 100 minutes per renewal
+- **Security Data Pipeline Optimization** — Resolved log ingestion and timestamp reliability issues across 5+ Splunk data feeds, improving pipeline uptime
+- **Employee Analytics Pipeline** — Designed data cleaning, aggregation, and reporting pipeline for 1,000+ employee records across 12+ departments at BackPac Technologies
 
 ---
 
