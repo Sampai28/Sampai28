@@ -72,8 +72,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sampai28&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4d9de0&icon_color=4d9de0&text_color=ffffff&border_color=1e3a5f" />
-<img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sampai28&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4d9de0&text_color=ffffff&border_color=1e3a5f" />
 <img height="120" src="https://streak-stats.demolab.com?user=Sampai28&theme=tokyonight&background=0d1117&border=1e3a5f&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0" />
 </div>
 
